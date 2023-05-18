@@ -10,23 +10,29 @@ namespace   Assignment_1
         private Customer[] _customers;
         private int _customerCount;
 
+        //Properties
+        public Customer[] Customers
+        {
+            get { return _customers; }
+        }
+
         public BillingSystem(int customerCount)
         {
-            if (customerCount < null)
-            {
-                _customerCount = 100;
-            }
             _customers = new Customer[customerCount];
-            _customerCount = customerCount;
+            _customerCount = 0;
+        }
+        public BillingSystem()
+        {
+            _customers = new Customer[100];
+            _customerCount = 0;
         }
         //add Customer function 
         public void AddCustomer(Customer customer)
         {
             //check if array is full
-            if (_customerCount == _customers.Count() - 1 )
+            if (_customerCount == _customers.Length)
             {
-                //create  new array bigger by 1 than current array
-                 _customers = new Customer[_customers.Count() + 1];
+                Array.Resize(ref _customers, _customers.Length * 2);
             }
             _customers[_customerCount] = customer;
             _customerCount++;
