@@ -1,0 +1,15 @@
+Cars assignment:
+
+2) Create a subclass (inherited class) to Vehicle class named Cars.
+This class will have an additional member: Color.
+
+3) Create another subclass named Boat
+This class will have an additional member: BoatName.
+
+4) In the Main function, create an array of vehicles size 3,4 elements.
+
+5) Ask the user about the details of each vehicle when taking into consideration the type of vehicle the user wants to add.
+
+6) After all the information about your cars is entered, Print the details of every car.
+
+7) Do not forget to use ToString() method.

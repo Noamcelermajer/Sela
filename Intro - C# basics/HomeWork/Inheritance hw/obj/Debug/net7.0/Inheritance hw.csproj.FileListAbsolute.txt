@@ -1,0 +1,15 @@
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\bin\Debug\net7.0\Inheritance hw.exe
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\bin\Debug\net7.0\Inheritance hw.deps.json
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\bin\Debug\net7.0\Inheritance hw.runtimeconfig.json
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\bin\Debug\net7.0\Inheritance hw.dll
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\bin\Debug\net7.0\Inheritance hw.pdb
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.csproj.AssemblyReference.cache
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.AssemblyInfoInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.AssemblyInfo.cs
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.csproj.CoreCompileInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.dll
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\refint\Inheritance hw.dll
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.pdb
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\Inheritance hw.genruntimeconfig.cache
+C:\Users\noamc\Code\Sela\HomeWork\Inheritance hw\obj\Debug\net7.0\ref\Inheritance hw.dll

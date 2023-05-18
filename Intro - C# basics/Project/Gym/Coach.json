@@ -1,0 +1,76 @@
+[
+  {
+    "taxId": "234235235",
+    "firstname": "John",
+    "lastname": "Doe",
+    "gender": "Male",
+    "birthDate": "1990-05-12",
+    "phone": "+1-555-123-4567",
+    "email": "john.doe@example.com",
+    "profession": "Fitness Coach",
+    "status": "employed",
+    "EmployeeId": "EMP001",
+    "BankDetails": "ABC Bank, Account: 12345678",
+    "Grade": "A"
+  },
+  {
+    "taxId": "345346346",
+    "firstname": "Jane",
+    "lastname": "Smith",
+    "gender": "Female",
+    "birthDate": "1985-09-25",
+    "phone": "+1-555-234-5678",
+    "email": "jane.smith@example.com",
+    "profession": "Swimming Coach",
+    "status": "unemployed",
+    "EmployeeId": "EMP002",
+    "BankDetails": "DEF Bank, Account: 23456789",
+    "Grade": "B"
+  },
+  {
+    "taxId": "456457457",
+    "firstname": "Mark",
+    "lastname": "Johnson",
+    "gender": "Male",
+    "birthDate": "1978-11-18",
+    "phone": "+1-555-345-6789",
+    "email": "mark.johnson@example.com",
+    "profession": "Yoga Instructor",
+    "status": "employed",
+    "EmployeeId": "EMP003",
+    "BankDetails": "GHI Bank, Account: 34567890",
+    "Grade": "A"
+  },
+  {
+    "taxId": "567568568",
+    "firstname": "Sara",
+    "lastname": "Lee",
+    "gender": "Female",
+    "birthDate": "2001-04-07",
+    "phone": "+1-555-456-7890",
+    "email": "sara.lee@example.com",
+    "profession": "Nutrition Coach",
+    "status": "part-time",
+    "EmployeeId": "EMP004",
+    "BankDetails": "JKL Bank, Account: 45678901",
+    "Grade": "C"
+  },
+  {
+    "taxId": "678679679",
+    "firstname": "Michael",
+    "lastname": "Brown",
+    "gender": "Male",
+    "birthDate": "1980-12-30",
+    "phone": "+1-555-567-8901",
+    "email": "michael.brown@example.com",
+    "profession": "Martial Arts Instructor",
+    "status": "employed",
+    "EmployeeId": "EMP005",
+    "BankDetails": "MNO Bank, Account: 56789012",
+    "Grade": "B"
+  }
+
+
+
+
+]

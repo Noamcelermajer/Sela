@@ -1,0 +1,15 @@
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\bin\Debug\net7.0\2d-Matrix.exe
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\bin\Debug\net7.0\2d-Matrix.deps.json
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\bin\Debug\net7.0\2d-Matrix.runtimeconfig.json
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\bin\Debug\net7.0\2d-Matrix.dll
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\bin\Debug\net7.0\2d-Matrix.pdb
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.csproj.AssemblyReference.cache
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.AssemblyInfoInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.AssemblyInfo.cs
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.csproj.CoreCompileInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.dll
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\refint\2d-Matrix.dll
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.pdb
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\2d-Matrix.genruntimeconfig.cache
+C:\Users\noamc\Code\Sela\HomeWork\2d-Matrix\obj\Debug\net7.0\ref\2d-Matrix.dll

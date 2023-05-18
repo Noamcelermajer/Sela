@@ -1,0 +1,15 @@
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.csproj.AssemblyReference.cache
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.AssemblyInfoInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.AssemblyInfo.cs
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\bin\Debug\net7.0\VehicleHomeWork.exe
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\bin\Debug\net7.0\VehicleHomeWork.deps.json
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\bin\Debug\net7.0\VehicleHomeWork.runtimeconfig.json
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\bin\Debug\net7.0\VehicleHomeWork.dll
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\bin\Debug\net7.0\VehicleHomeWork.pdb
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.dll
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\refint\VehicleHomeWork.dll
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.pdb
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\VehicleHomeWork.genruntimeconfig.cache
+C:\Users\noamc\Code\Sela\HomeWork\VehicleHomeWork\obj\Debug\net7.0\ref\VehicleHomeWork.dll

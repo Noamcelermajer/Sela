@@ -1,0 +1,15 @@
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.csproj.AssemblyReference.cache
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.AssemblyInfoInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.AssemblyInfo.cs
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.csproj.CoreCompileInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\bin\Debug\net7.0\Car-Dealership.exe
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\bin\Debug\net7.0\Car-Dealership.deps.json
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\bin\Debug\net7.0\Car-Dealership.runtimeconfig.json
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\bin\Debug\net7.0\Car-Dealership.dll
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\bin\Debug\net7.0\Car-Dealership.pdb
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.dll
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\refint\Car-Dealership.dll
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.pdb
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\Car-Dealership.genruntimeconfig.cache
+C:\Users\noamc\Code\Sela\HomeWork\Car-Dealership\obj\Debug\net7.0\ref\Car-Dealership.dll

@@ -1,0 +1,15 @@
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.csproj.AssemblyReference.cache
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.AssemblyInfoInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.AssemblyInfo.cs
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.csproj.CoreCompileInputs.cache
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\bin\Debug\net7.0\Triangle_Square.exe
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\bin\Debug\net7.0\Triangle_Square.deps.json
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\bin\Debug\net7.0\Triangle_Square.runtimeconfig.json
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\bin\Debug\net7.0\Triangle_Square.dll
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\bin\Debug\net7.0\Triangle_Square.pdb
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.dll
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\refint\Triangle_Square.dll
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.pdb
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\Triangle_Square.genruntimeconfig.cache
+C:\Users\noamc\Code\Sela\HomeWork\Triangle_Square\obj\Debug\net7.0\ref\Triangle_Square.dll
